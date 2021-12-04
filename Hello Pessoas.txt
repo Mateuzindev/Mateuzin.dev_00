@@ -1,0 +1,3 @@
+ deleted:    Declaracao a Programacao.txt
+        deleted:    Login Mateus Dev.txt
+        deleted:    Meu codigo.txt
